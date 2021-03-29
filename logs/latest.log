@@ -1,0 +1,252 @@
+[18:35:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:35:31] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[18:35:31] [Worker-Main-5/INFO]: Loaded 7 recipes
+[18:35:32] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:35:32] [Server thread/INFO]: Loading properties
+[18:35:32] [Server thread/INFO]: This server is running Paper version git-Paper-573 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[18:35:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:35:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:35:32] [Server thread/INFO]: Debug logging is disabled
+[18:35:32] [Server thread/INFO]: Default game type: SURVIVAL
+[18:35:32] [Server thread/INFO]: Generating keypair
+[18:35:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:35:32] [Server thread/INFO]: Using epoll channel type
+[18:35:33] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.4+5723-e3bfc64
+[18:35:34] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@74089d2]
+[18:35:34] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.0.2
+[18:35:34] [Server thread/INFO]: [Skript] Loading Skript v2.5.3
+[18:35:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:35:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.4+5723-e3bfc64
+[18:35:34] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:35:34] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[18:35:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:35:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:35:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:35:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:35:35] [Server thread/INFO]: Preparing level "world"
+[18:35:36] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:35:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:35:37] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[18:35:37] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:37] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:37] [Server thread/INFO]: Time elapsed: 957 ms
+[18:35:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:35:37] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[18:35:37] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:39] [Server thread/INFO]: Preparing spawn area: 58%
+[18:35:39] [Server thread/INFO]: Time elapsed: 2253 ms
+[18:35:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:35:39] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[18:35:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:40] [Worker-Main-6/INFO]: Preparing spawn area: 100%
+[18:35:40] [Server thread/INFO]: Time elapsed: 551 ms
+[18:35:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.0.2
+[18:35:40] [Server thread/INFO]: [SkinsRestorer] Using PaperSkinRefresher
+[18:35:40] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_16_R3, using UniversalSkinFactory.
+[18:35:40] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[18:35:42] [Server thread/INFO]: [Skript] Enabling Skript v2.5.3
+[18:35:43] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[18:35:48] [Server thread/INFO]: [Skript] Loaded 128188 aliases in 5280ms
+[18:35:48] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[18:35:48] [Server thread/INFO]: Running delayed init tasks
+[18:35:49] [Server thread/INFO]: [Skript] Loading variables...
+[18:35:49] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[18:35:49] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[18:35:49] [Server thread/WARN]: [Skript] No scripts were found, maybe you should write some ;) (config.sk, line 188: databases:')
+[18:35:49] [Server thread/INFO]: [Skript] Finished loading.
+[18:35:49] [Server thread/INFO]: Done (16.610s)! For help, type "help"
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_282
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
+[18:35:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[18:35:49] [Server thread/INFO]: Timings Reset
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     +===============+
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     | SkinsRestorer |
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     |---------------|
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     |  Bukkit only  |
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     +===============+
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     Current version: 14.0.2
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     This is the latest version!
+[18:35:49] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:39:48] [User Authenticator #1/INFO]: UUID of player Lucz0xx is cbeadccc-a987-33d5-9414-00501e8c5a39
+[18:39:48] [Server thread/INFO]: Lucz0xx joined the game
+[18:39:48] [Server thread/INFO]: Lucz0xx[/127.0.0.1:59918] logged in with entity id 339 at ([world]224.49297931696188, 53.0, 139.96068074614954)
+[18:46:28] [Server thread/INFO]: Villager EntityVillager['Villager'/142, uuid='c280160a-2a28-4077-b328-c5ba381f4a3b', l='ServerLevel[world]', x=187.35, y=74.92, z=97.16, cx=11, cz=6, tl=110735, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[18:51:17] [Server thread/INFO]: Villager EntityVillager['Farmer'/77, uuid='27ed2127-28da-4a6b-a383-945623836bf7', l='ServerLevel[world]', x=142.50, y=97.00, z=78.70, cx=8, cz=4, tl=116539, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[18:54:16] [Server thread/INFO]: Lucz0xx has made the advancement [Monster Hunter]
+[18:55:16] [Server thread/INFO]: Lucz0xx issued server command: /weather clear
+[18:55:16] [Server thread/INFO]: [Lucz0xx: Set the weather to clear]
+[19:00:55] [Server thread/INFO]: Lucz0xx issued server command: /skript reload all
+[19:03:31] [Server thread/INFO]: Villager EntityVillager['Mason'/204, uuid='e8a2895c-7293-48bd-8d8d-ed4232972293', l='ServerLevel[world]', x=183.40, y=70.94, z=122.85, cx=11, cz=7, tl=131220, v=true, d=false] died, message: 'Mason was slain by Zombie'
+[19:06:53] [Server thread/INFO]: Villager EntityVillager['Farmer'/202, uuid='8ee1c13b-9fc3-47b4-8bb8-79aedbf81660', l='ServerLevel[world]', x=255.41, y=74.00, z=84.32, cx=15, cz=5, tl=135278, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[19:09:53] [Server thread/INFO]: Lucz0xx issued server command: /time set 3000
+[19:09:53] [Server thread/INFO]: [Lucz0xx: Set the time to 3000]
+[19:10:00] [Server thread/INFO]: Lucz0xx issued server command: /weather clear
+[19:10:00] [Server thread/INFO]: [Lucz0xx: Set the weather to clear]
+[19:13:53] [Server thread/INFO]: [Skript] Reloading the config and all scripts...
+[19:13:58] [Server thread/INFO]: Loaded 128188 aliases in 5030ms
+[19:13:58] [Server thread/ERROR]: Can't understand this condition/effect: make player execute /time set 3000 (simple join and leave message.sk, line 8: make player execute /time set 3000')
+[19:13:58] [Server thread/ERROR]: Can't understand this condition/effect: make player execute /weather clear (simple join and leave message.sk, line 9: make player execute /weather clear')
+[19:13:58] [Server thread/INFO]: Loaded 1 script with a total of 0 triggers and 1 command in 0.01 seconds
+[19:13:58] [Server thread/INFO]: [Skript] Encountered 2 errors while reloading the config and all scripts!
+[19:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[19:17:48] [Server thread/INFO]: [Skript] Reloading the config and all scripts...
+[19:17:53] [Server thread/INFO]: Loaded 128188 aliases in 4485ms
+[19:17:53] [Server thread/ERROR]: indentation error: expected 2 tabs, but found '->____' [-> = tab, _ = space, ? = other whitespace] (simple join and leave message.sk, line 8: make console execute command "/time set 3000"')
+[19:17:53] [Server thread/INFO]: Loaded 1 script with a total of 0 triggers and 1 command in 0.02 seconds
+[19:17:53] [Server thread/INFO]: [Skript] Encountered 1 error while reloading the config and all scripts!
+[19:18:44] [Server thread/INFO]: Villager EntityVillager['Farmer'/140, uuid='5ab84fb1-b49c-49ed-b426-c79fe5741bad', l='ServerLevel[world]', x=141.87, y=87.00, z=74.67, cx=8, cz=4, tl=149391, v=true, d=false] died, message: 'Farmer hit the ground too hard'
+[19:19:19] [Server thread/INFO]: [Skript] Reloading the config and all scripts...
+[19:19:23] [Server thread/INFO]: Loaded 128188 aliases in 4312ms
+[19:19:23] [Server thread/ERROR]: indentation error: expected 2 tabs, but found '->____->' [-> = tab, _ = space, ? = other whitespace] (simple join and leave message.sk, line 8: make console execute command "/time set 3000"')
+[19:19:23] [Server thread/ERROR]: indentation error: expected 2 tabs, but found 3 tabs (simple join and leave message.sk, line 9: make console execute command "/weather clear"')
+[19:19:23] [Server thread/ERROR]: indentation error: expected 2 tabs, but found 3 tabs (simple join and leave message.sk, line 10: message "<grey>«<green>SERWER<grey>» <cyan>Gotowe!"')
+[19:19:23] [Server thread/INFO]: Loaded 1 script with a total of 0 triggers and 1 command in 0 seconds
+[19:19:23] [Server thread/INFO]: [Skript] Encountered 3 errors while reloading the config and all scripts!
+[19:19:54] [Server thread/INFO]: [Skript] Reloading the config and all scripts...
+[19:19:58] [Server thread/INFO]: Loaded 128188 aliases in 3869ms
+[19:19:58] [Server thread/ERROR]: indentation error: expected 2 tabs, but found 3 tabs (simple join and leave message.sk, line 8: make console execute command "/time set 3000"')
+[19:19:58] [Server thread/ERROR]: indentation error: expected 2 tabs, but found 3 tabs (simple join and leave message.sk, line 9: make console execute command "/weather clear"')
+[19:19:58] [Server thread/ERROR]: indentation error: expected 2 tabs, but found 3 tabs (simple join and leave message.sk, line 10: message "<grey>«<green>SERWER<grey>» <cyan>Gotowe!"')
+[19:19:58] [Server thread/INFO]: Loaded 1 script with a total of 0 triggers and 1 command in 0 seconds
+[19:19:58] [Server thread/INFO]: [Skript] Encountered 3 errors while reloading the config and all scripts!
+[19:20:24] [Server thread/INFO]: [Skript] Reloading the config and all scripts...
+[19:20:28] [Server thread/INFO]: Loaded 128188 aliases in 3838ms
+[19:20:28] [Server thread/INFO]: All scripts loaded without errors.
+[19:20:28] [Server thread/INFO]: Loaded 1 script with a total of 0 triggers and 1 command in 0.01 seconds
+[19:20:28] [Server thread/INFO]: [Skript] Successfully reloaded the config and all scripts.
+[19:20:40] [Server thread/INFO]: Lucz0xx issued server command: /dobudowania
+[19:20:40] [Server thread/INFO]: Lucz0xx [cbeadccc-a987-33d5-9414-00501e8c5a39]: /dobudowania
+[19:20:40] [Server thread/INFO]: Set the time to 3000
+[19:20:40] [Server thread/INFO]: Set the weather to clear
+[19:21:04] [Server thread/INFO]: Lucz0xx issued server command: /dobudowania
+[19:21:04] [Server thread/INFO]: Lucz0xx [cbeadccc-a987-33d5-9414-00501e8c5a39]: /dobudowania
+[19:21:04] [Server thread/INFO]: Set the time to 3000
+[19:21:04] [Server thread/INFO]: Set the weather to clear
+[19:21:12] [Server thread/INFO]: Lucz0xx issued server command: /skript reload all
+[19:21:24] [Server thread/INFO]: Lucz0xx issued server command: /dobudowania
+[19:21:24] [Server thread/INFO]: Lucz0xx [cbeadccc-a987-33d5-9414-00501e8c5a39]: /dobudowania
+[19:21:24] [Server thread/INFO]: Set the time to 3000
+[19:21:24] [Server thread/INFO]: Set the weather to clear
+[19:23:41] [Server thread/INFO]: [Skript] Reloading the config and all scripts...
+[19:23:44] [Server thread/INFO]: Loaded 128188 aliases in 3681ms
+[19:23:44] [Server thread/WARN]: Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section. (simple join and leave message.sk, line 7: trigger:')
+[19:23:44] [Server thread/ERROR]: indentation error: expected 1 tab, but found 2 tabs (simple join and leave message.sk, line 9: make console execute command "/time set 3000"')
+[19:23:44] [Server thread/ERROR]: indentation error: expected 1 tab, but found 2 tabs (simple join and leave message.sk, line 10: make console execute command "/weather clear"')
+[19:23:44] [Server thread/ERROR]: indentation error: expected 1 tab, but found 2 tabs (simple join and leave message.sk, line 11: message "<grey>«<lime>SERWER<grey>» <cyan>Zmieniono czas na 3000 i ustawiono pogodę na bezchmurną"')
+[19:23:44] [Server thread/INFO]: Loaded 1 script with a total of 0 triggers and 1 command in 0 seconds
+[19:23:44] [Server thread/INFO]: [Skript] Encountered 3 errors while reloading the config and all scripts!
+[19:24:40] [Server thread/INFO]: [Skript] Reloading the config and all scripts...
+[19:24:44] [Server thread/INFO]: Loaded 128188 aliases in 3747ms
+[19:24:44] [Server thread/INFO]: All scripts loaded without errors.
+[19:24:44] [Server thread/INFO]: Loaded 1 script with a total of 0 triggers and 1 command in 0.01 seconds
+[19:24:44] [Server thread/INFO]: [Skript] Successfully reloaded the config and all scripts.
+[19:25:05] [Server thread/INFO]: Lucz0xx issued server command: /budowa
+[19:25:05] [Server thread/INFO]: Lucz0xx [cbeadccc-a987-33d5-9414-00501e8c5a39]: /budowa
+[19:25:05] [Server thread/INFO]: Set the time to 3000
+[19:25:05] [Server thread/INFO]: Set the weather to clear
+[19:31:46] [Server thread/INFO]: Lucz0xx issued server command: /budowa
+[19:31:46] [Server thread/INFO]: Lucz0xx [cbeadccc-a987-33d5-9414-00501e8c5a39]: /budowa
+[19:31:46] [Server thread/INFO]: Set the time to 3000
+[19:31:46] [Server thread/INFO]: Set the weather to clear
+[19:34:21] [User Authenticator #2/INFO]: UUID of player rick_astley is 04e384bf-6760-39e8-8566-611450494df4
+[19:34:21] [Server thread/INFO]: rick_astley joined the game
+[19:34:21] [Server thread/INFO]: rick_astley[/0:0:0:0:0:0:0:1%0:58992] logged in with entity id 4999 at ([world]167.5, 68.0, 141.5)
+[19:34:36] [Async Chat Thread - #0/INFO]: <rick_astley> sex
+[19:34:40] [Async Chat Thread - #0/INFO]: <rick_astley> xd
+[19:34:45] [Async Chat Thread - #0/INFO]: <rick_astley> cho na klepe
+[19:34:49] [Async Chat Thread - #0/INFO]: <Lucz0xx> spier xD
+[19:34:58] [Async Chat Thread - #0/INFO]: <rick_astley> a ty kurwo jebana
+[19:34:59] [Async Chat Thread - #0/INFO]: <Lucz0xx> dobra to klepa
+[19:35:19] [Server thread/INFO]: Lucz0xx has made the advancement [Cover Me With Diamonds]
+[19:35:32] [Async Chat Thread - #0/INFO]: <rick_astley> XD
+[19:35:34] [Server thread/INFO]: rick_astley has made the advancement [Cover Me With Diamonds]
+[19:35:38] [Async Chat Thread - #0/INFO]: <Lucz0xx> wait
+[19:35:45] [Server thread/INFO]: Lucz0xx issued server command: /gamemode survival
+[19:35:45] [Server thread/INFO]: [Lucz0xx: Set own game mode to Survival Mode]
+[19:35:50] [Async Chat Thread - #0/INFO]: <rick_astley> ale sex
+[19:35:58] [Server thread/INFO]: rick_astley was slain by Lucz0xx
+[19:36:03] [Async Chat Thread - #0/INFO]: <Lucz0xx> suaby
+[19:36:06] [Async Chat Thread - #0/INFO]: <rick_astley> kurwo jebana
+[19:36:08] [Async Chat Thread - #0/INFO]: <rick_astley> nie fair
+[19:36:11] [Async Chat Thread - #0/INFO]: <rick_astley> ty z powietsza
+[19:36:12] [Async Chat Thread - #0/INFO]: <Lucz0xx> fer xD
+[19:36:14] [Async Chat Thread - #0/INFO]: <Lucz0xx> aa
+[19:36:16] [Async Chat Thread - #0/INFO]: <rick_astley> nie
+[19:36:17] [Async Chat Thread - #0/INFO]: <Lucz0xx> to tp
+[19:36:22] [Server thread/INFO]: Lucz0xx issued server command: /tp rick_astley Lucz0xx
+[19:36:22] [Server thread/INFO]: [Lucz0xx: Teleported rick_astley to Lucz0xx]
+[19:36:37] [Server thread/INFO]: Lucz0xx was slain by rick_astley
+[19:36:41] [Async Chat Thread - #0/INFO]: <rick_astley> chuju
+[19:36:45] [Async Chat Thread - #0/INFO]: <rick_astley> kritikale
+[19:36:45] [Server thread/INFO]: Lucz0xx issued server command: /tp rick_astley
+[19:36:45] [Server thread/INFO]: [Lucz0xx: Teleported Lucz0xx to rick_astley]
+[19:36:45] [Server thread/WARN]: Lucz0xx moved too quickly! 51.366582396881654,2.0,-12.679687870866474
+[19:36:46] [Async Chat Thread - #0/INFO]: <rick_astley> xd
+[19:36:57] [Async Chat Thread - #0/INFO]: <Lucz0xx> a klata?
+[19:36:58] [Async Chat Thread - #0/INFO]: <rick_astley> nie mam ful hp
+[19:37:04] [Async Chat Thread - #0/INFO]: <Lucz0xx> to czk
+[19:37:23] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:37:23] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:37:26] [Async Chat Thread - #0/INFO]: <Lucz0xx> juz?
+[19:37:29] [Async Chat Thread - #0/INFO]: <Lucz0xx> juz?
+[19:37:29] [Async Chat Thread - #0/INFO]: <Lucz0xx> juz?
+[19:37:29] [Async Chat Thread - #0/INFO]: <Lucz0xx> juz?
+[19:37:30] [Async Chat Thread - #0/INFO]: <Lucz0xx> juz?
+[19:37:30] [Async Chat Thread - #0/INFO]: <Lucz0xx> juz?
+[19:37:30] [Async Chat Thread - #0/INFO]: <Lucz0xx> juz?
+[19:37:31] [Async Chat Thread - #0/INFO]: <Lucz0xx> juz?
+[19:37:32] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:37:32] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:37:33] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:37:33] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:37:33] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:37:33] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:37:33] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:37:33] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:37:34] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:37:34] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:37:34] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:37:34] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:37:38] [Server thread/INFO]: rick_astley has made the advancement [Monster Hunter]
+[19:37:50] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:37:50] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:38:09] [Async Chat Thread - #0/INFO]: <Lucz0xx> e
+[19:38:11] [Async Chat Thread - #0/INFO]: <Lucz0xx> tklepa
+[19:38:12] [Async Chat Thread - #0/INFO]: <rick_astley> xd
+[19:38:13] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:38:13] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:38:15] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:38:15] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:38:15] [Async Chat Thread - #0/INFO]: <rick_astley> czk
+[19:38:16] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:38:16] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:38:16] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:38:16] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:38:16] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:38:16] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:38:17] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:38:17] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:38:17] [Server thread/INFO]: Lucz0xx issued server command: /effect give rick_astley minecraft:instant_health 1 120
+[19:38:17] [Server thread/INFO]: [Lucz0xx: Applied effect Instant Health to rick_astley]
+[19:38:23] [Async Chat Thread - #0/INFO]: <Lucz0xx> nie rob nic chuju jebany
+[19:38:39] [Server thread/INFO]: Lucz0xx lost connection: Disconnected
+[19:38:39] [Server thread/INFO]: Lucz0xx left the game
+[19:50:30] [Server thread/INFO]: rick_astley lost connection: Disconnected
+[19:50:30] [Server thread/INFO]: rick_astley left the game

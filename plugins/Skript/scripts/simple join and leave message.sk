@@ -1,0 +1,11 @@
+#
+# A join and leave message.
+#
+
+command /budowa:
+	description: Zmienia na weather clear i 3000 czasu
+	permission: skript.bud
+	trigger:
+		make console execute command "/time set 3000"
+		make console execute command "/weather clear"
+		message "<grey>«<lime>SERWER<grey>» <cyan>Zmieniono czas na 3000 i ustawiono pogodę na bezchmurną"
